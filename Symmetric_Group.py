@@ -1,4 +1,3 @@
-# 2020-07-29
 from docx import Document
 import random
 
