@@ -153,7 +153,7 @@ cycle_maxlen = quest_int(
     'What is the maximum length of any given cycle?: ', quest_min=2, quest_max=sym_size, quest_obj='elements'
 )
 cycle_tot = quest_int(
-    'What''s the maximum number of cycles you want to work with?: ', quest_min=2, quest_max=0, quest_obj='cycles'
+    'What is the maximum number of cycles you want to work with?: ', quest_min=2, quest_max=0, quest_obj='cycles'
 )
 quest_tot = quest_int(
     'How many questions would you like to have?: ', quest_min=1, quest_max=0, quest_obj='questions'
