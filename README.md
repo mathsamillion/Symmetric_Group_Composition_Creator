@@ -35,7 +35,7 @@ Question Rules:
       This is to allow for more questions e.g. (1 2)(1 4 2)(2 1).
       If the previous rule was followed, we wouldn't be able to have this question.
       
-   3) If a question is created that doesn't need solving it's redone.
+   3) If a question is created that doesn't need solving, it's redone.
    
    4) If a question is created multiple times, it's redone.
       The variable 'question_attempts' is increased, and when it reaches total_attempts=10 the code stops.
